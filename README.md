@@ -5,6 +5,8 @@ Discussion link [OpenHomeBrewer_WiFi](https://hbpro.ru/threads/openhomebrewer_wi
 
 Author [Andynovosib](https://hbpro.ru/members/andynovosib.131/)
 
+![](https://github.com/HBProRu/OpenHomeBrewer_WiFi/blob/master/pcb/schematic.jpg)
+
 ![](https://github.com/HBProRu/OpenHomeBrewer_WiFi/blob/master/screenshot/Главное меню.jpg)
 
 ![](https://github.com/HBProRu/OpenHomeBrewer_WiFi/blob/master/screenshot/Настройки автоматики.jpg)
