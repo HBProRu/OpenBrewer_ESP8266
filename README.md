@@ -1,2 +1,2 @@
-# OpenHomeBrewer_ESP8266
+# OpenHomeBrewer
 Brewing controller with Wi-Fi on ESP8266
