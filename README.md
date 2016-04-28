@@ -1,2 +1,2 @@
-# OpenBrewer_ESP8266
+# OpenHomeBrewer_ESP8266
 Brewing controller on ESP8266
