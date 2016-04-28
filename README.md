@@ -5,15 +5,15 @@ Discussion link [OpenHomeBrewer_WiFi](https://hbpro.ru/threads/openhomebrewer_wi
 
 Author [Andynovosib](https://hbpro.ru/members/andynovosib.131/)
 
-![](https://github.com/HBProRu/OpenHomeBrewer_WiFi/blob/master/pcb/schematic.jpg)
+![](https://raw.githubusercontent.com/HBProRu/OpenHomeBrewer_WiFi/master/pcb/schematic.jpg)
 
-![](https://github.com/HBProRu/OpenHomeBrewer_WiFi/blob/master/screenshot/Главное меню.jpg)
+![](https://raw.githubusercontent.com/HBProRu/OpenHomeBrewer_WiFi/master/screenshot/Главное меню.jpg)
 
-![](https://github.com/HBProRu/OpenHomeBrewer_WiFi/blob/master/screenshot/Настройки автоматики.jpg)
+![](https://raw.githubusercontent.com/HBProRu/OpenHomeBrewer_WiFi/master/screenshot/Настройки автоматики.jpg)
 
-![](https://github.com/HBProRu/OpenHomeBrewer_WiFi/blob/master/screenshot/Автоматический режим.jpg)
+![](https://raw.githubusercontent.com/HBProRu/OpenHomeBrewer_WiFi/master/screenshot/Автоматический режим.jpg)
 
-![](https://github.com/HBProRu/OpenHomeBrewer_WiFi/blob/master/screenshot/Ручной режим.jpg)
+![](https://raw.githubusercontent.com/HBProRu/OpenHomeBrewer_WiFi/master/screenshot/Ручной режим.jpg)
 
 
 
